@@ -1,4 +1,3 @@
-package exercice3;
 import java.io.File;
 import java.util.Scanner;
 
@@ -26,4 +25,3 @@ public class Exo3 {
 }
 
 
-// /Users/constance/IdeaProjects/tp2/

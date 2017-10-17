@@ -1,5 +1,3 @@
-package exercice2;
-
 import java.util.Scanner;
 
 public class Exo2 {

@@ -1,4 +1,4 @@
-package exercice7;
+// exercice7;
 import java.util.Scanner;
 
 public class salaire {

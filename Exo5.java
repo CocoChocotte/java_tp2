@@ -1,4 +1,4 @@
-package exercice5;
+
 
 import java.io.File;
 import java.io.IOException;
